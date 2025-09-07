@@ -5,3 +5,6 @@ A collection of random tools created by me that I am going to use for my backend
 Heavily inspired by Fred Again's USB
 
 No coherence should be expected among the projects in this repo
+
+# Projects in this repo
+1. Hitter: A barebones api endpoint tester, just because I was tired of using postman. Will add more functionalities in the future. 
